@@ -1,6 +1,0 @@
----
-title: "posts"
-slug: "posts"
----
-
-..
