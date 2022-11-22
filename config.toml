@@ -167,21 +167,33 @@ weight = 8
 url = "https://www.facebook.com/6unpnp"
 
 [[params.social]]
+name = "ResearchGate"
+icon = "fa fa-2x fa-researchgate"
+weight = 9
+url = "https://www.researchgate.net/profile/Sparisoma-Viridi"
+
+[[params.social]]
 name = "YouTube"
 icon = "fa fa-2x fa-youtube"
-weight = 9
+weight = 10
 url = "https://www.youtube.com/channel/UCE6LwyjTcMSvce57UvyIbfA"
 
 [[params.social]]
 name = "Flickr"
 icon = "fa fa-2x fa-flickr"
-weight = 10
+weight = 11
 url = "https://www.flickr.com/photos/195637519@N06"
+
+[[params.social]]
+name = "WordPress"
+icon = "fa fa-2x fa-wordpress"
+weight = 12
+url = "https://viridi.wordpress.com/"
 
 [[params.social]]
 name = "RSS"
 icon = "fa fa-2x fa-rss"
-weight = 11
+weight = 13
 url = "https://dudung.github.io/blog/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
