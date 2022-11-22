@@ -23,6 +23,7 @@ author = "Sparisoma Viridi"
 description = "Sparisoma Viridi's personal website"
 keywords = "blog,developer,personal"
 info = ["Physicist", "Programmer"]
+
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -116,10 +117,10 @@ weight = 1
 url = "https://github.com/dudung/"
 
 [[params.social]]
-#name = "Gitlab"
-# icon = "fa fa-2x fa-gitlab"
-# weight = 2
-# url = "https://gitlab.com/johndoe/"
+name = "Gitlab"
+icon = "fa fa-2x fa-gitlab"
+weight = 2
+url = "https://gitlab.com/6unpnp/"
 
 [[params.social]]
 name = "Twitter"
@@ -128,10 +129,10 @@ weight = 3
 url = "https://twitter.com/6unpnp/"
 
 [[params.social]]
-# name = "LinkedIn"
-# icon = "fa fa-2x fa-linkedin"
-# weight = 4
-# url = "https://www.linkedin.com/in/johndoe/"
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/6unpnp/"
 
 [[params.social]]
 name = "Medium"
@@ -147,6 +148,8 @@ url = "https://dudung.github.io/blog/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
+
+## en (default)
 [languages.en]
 languageName = ":uk:"
 
@@ -156,7 +159,7 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Posts"
 weight = 2
 url = "posts/"
 
@@ -170,32 +173,67 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
-[languages.pt-br]
-languageName = ":brazil:"
-title = "João Ninguém"
 
-[languages.pt-br.params]
-author = "João Ninguém"
-info = "Full Stack DevOps e Mágico"
-description = "Sítio pessoal de João Ninguém"
-keywords = "blog,desenvolvedor,pessoal"
+## de
+[languages.de]
+languageName = ":de:"
+title = "Blog"
 
-[[languages.pt-br.menu.main]]
-name = "Sobre"
+[languages.de.params]
+author = "Sparisoma Viridi"
+info = ["Physiker", "Programmierer"]
+description = "Persönliche Webseite von Sparisoma Viridi"
+keywords = "blog,entwickler,persönlich"
+
+[[languages.de.menu.main]]
+name = "Über"
 weight = 1
 url = "about/"
 
-[[languages.pt-br.menu.main]]
-name = "Blog"
+[[languages.de.menu.main]]
+name = "Beiträge"
 weight = 2
 url = "posts/"
 
-[[languages.pt-br.menu.main]]
-name = "Projetos"
+[[languages.de.menu.main]]
+name = "Projekte"
 weight = 3
 url = "projects/"
 
-[[languages.pt-br.menu.main]]
-name = "Contato"
+[[languages.de.menu.main]]
+name = "Kontaktiere mich"
 weight = 5
 url = "contact/"
+
+
+## id (:id: --> <span style='font-variant: small-caps;'>id</span>)
+[languages.id]
+languageName = "<span style='font-variant: small-caps;'>id</span>"
+title = "Blog"
+
+[languages.id.params]
+author = "Sparisoma Viridi"
+info = ["Fisikawan", "Pemrogram"]
+description = "Situs web pribadi Sparisoma Viridi"
+keywords = "blog,pengembang,pribadi"
+
+[[languages.id.menu.main]]
+name = "Tentang"
+weight = 1
+url = "about/"
+
+[[languages.id.menu.main]]
+name = "Tulisan"
+weight = 2
+url = "posts/"
+
+[[languages.id.menu.main]]
+name = "Proyek"
+weight = 3
+url = "projects/"
+
+[[languages.id.menu.main]]
+name = "Hubungi saya"
+weight = 5
+url = "contact/"
+
