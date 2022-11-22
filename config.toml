@@ -227,19 +227,19 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Posts"
+name = "Cites"
 weight = 2
+url = "cites/"
+
+[[languages.en.menu.main]]
+name = "Posts"
+weight = 3
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
-
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
+name = "Works"
+weight = 4
+url = "works/"
 
 
 # de
@@ -259,26 +259,27 @@ weight = 1
 url = "about/"
 
 [[languages.de.menu.main]]
-name = "Beiträge"
+name = "Zitate"
 weight = 2
+url = "cites/"
+
+[[languages.de.menu.main]]
+name = "Beiträge"
+weight = 3
 url = "posts/"
 
 [[languages.de.menu.main]]
-name = "Projekte"
-weight = 3
-url = "projects/"
-
-[[languages.de.menu.main]]
-name = "Kontaktiere mich"
-weight = 5
-url = "contact/"
+name = "Werke"
+weight = 4
+url = "works/"
 
 
 # id
 [languages.id]
 # bug with :id:
 # substitue with <span style='font-variant: small-caps;'>id</span>
-languageName = "<span style='font-variant: small-caps;'>id</span>"
+# change back to get the flag
+languageName = ":id:"
 title = "Blog"
 
 [languages.id.params]
@@ -293,17 +294,17 @@ weight = 1
 url = "about/"
 
 [[languages.id.menu.main]]
-name = "Tulisan"
+name = "Kutipan"
 weight = 2
 url = "posts/"
 
 [[languages.id.menu.main]]
-name = "Proyek"
+name = "Tulisan"
 weight = 3
-url = "projects/"
+url = "posts/"
 
 [[languages.id.menu.main]]
-name = "Hubungi saya"
+name = "Karya"
 weight = 5
-url = "contact/"
+url = "works/"
 

@@ -1,6 +1,0 @@
----
-title: "proyek"
-slug: "projects"
----
-
-..
