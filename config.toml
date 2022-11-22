@@ -186,7 +186,7 @@ url = "https://orcid.org/0000-0002-7588-4539"
 
 [[params.social]]
 name = "YouTube"
-icon = "fa fa-2x fa-zenodo"
+icon = "fa fa-2x fa-youtube"
 weight = 12
 url = "https://www.youtube.com/channel/UCE6LwyjTcMSvce57UvyIbfA"
 
