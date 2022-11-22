@@ -205,7 +205,7 @@ rel = "alternate"
 type = "application/rss+xml"
 
 
-## en (default)
+# en (default)
 [languages.en]
 languageName = ":uk:"
 
@@ -230,7 +230,7 @@ weight = 5
 url = "contact/"
 
 
-## de
+# de
 [languages.de]
 languageName = ":de:"
 title = "Blog"
@@ -262,8 +262,10 @@ weight = 5
 url = "contact/"
 
 
-## id (:id: --> <span style='font-variant: small-caps;'>id</span>)
+# id
 [languages.id]
+# bug with :id:
+# substitue with <span style='font-variant: small-caps;'>id</span>
 languageName = "<span style='font-variant: small-caps;'>id</span>"
 title = "Blog"
 
