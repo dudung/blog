@@ -7,7 +7,7 @@ theme = 'hugo-coder'
 # title = "johndoe"
 # theme = "hugo-coder"
 
-languageCode = "en"
+#languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
 pygmentsStyle = "bw"
