@@ -6,8 +6,8 @@ theme = 'hugo-coder'
 # baseURL = "http://www.example.com"
 # title = "johndoe"
 # theme = "hugo-coder"
+# languageCode = "en"
 
-#languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
 pygmentsStyle = "bw"
@@ -22,7 +22,7 @@ author = "Sparisoma Viridi"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Sparisoma Viridi's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+info = ["Physicist", "Programmer"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
