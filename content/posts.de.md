@@ -1,0 +1,6 @@
+---
+title: "beiträge"
+slug: "posts"
+---
+
+..

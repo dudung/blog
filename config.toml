@@ -110,11 +110,19 @@ series = "series"
 tag = "tags"
 author = "authors"
 
+
+# social media
 [[params.social]]
 name = "Github"
 icon = "fa fa-2x fa-github"
-weight = 1
+weight = 0
 url = "https://github.com/dudung/"
+
+[[params.social]]
+name = "Flickr"
+icon = "fa fa-2x fa-inkscape"
+weight = 1
+url = "https://inkscape.org/~dudung/"
 
 [[params.social]]
 name = "Gitlab"
@@ -141,9 +149,39 @@ weight = 5
 url = "https://medium.com/@6unpnp"
 
 [[params.social]]
+name = "Instagram"
+icon = "fa fa-2x fa-instagram"
+weight = 6
+url = "https://www.instagram.com/6unpnp"
+
+[[params.social]]
+name = "Tumblr"
+icon = "fa fa-2x fa-tumblr"
+weight = 7
+url = "https://6unpnp.tumblr.com/"
+
+[[params.social]]
+name = "Facebook"
+icon = "fa fa-2x fa-facebook"
+weight = 8
+url = "https://www.facebook.com/6unpnp"
+
+[[params.social]]
+name = "YouTube"
+icon = "fa fa-2x fa-youtube"
+weight = 9
+url = "https://www.youtube.com/channel/UCE6LwyjTcMSvce57UvyIbfA"
+
+[[params.social]]
+name = "Flickr"
+icon = "fa fa-2x fa-flickr"
+weight = 10
+url = "https://www.flickr.com/photos/195637519@N06"
+
+[[params.social]]
 name = "RSS"
 icon = "fa fa-2x fa-rss"
-weight = 6
+weight = 11
 url = "https://dudung.github.io/blog/index.xml"
 rel = "alternate"
 type = "application/rss+xml"

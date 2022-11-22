@@ -1,0 +1,6 @@
+---
+title: "tulisan"
+slug: "posts"
+---
+
+..
