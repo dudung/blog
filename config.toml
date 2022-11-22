@@ -137,7 +137,7 @@ url = "https://twitter.com/6unpnp/"
 name = "Medium"
 icon = "fa fa-2x fa-medium"
 weight = 5
-url = "https://medium.com/@dudung"
+url = "https://medium.com/@6unpnp"
 
 [[params.social]]
 name = "RSS"
