@@ -1,0 +1,6 @@
+---
+title: "proyek"
+slug: "projects"
+---
+
+..
