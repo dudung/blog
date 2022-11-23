@@ -15,8 +15,7 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
-disqusShortname = "dudung"
-#disableComments = false
+disqusShortname = "dudung-github-blog"
 
 [params]
 author = "Sparisoma Viridi"
