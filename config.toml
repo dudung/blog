@@ -16,6 +16,7 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
 disqusShortname = "6unpnp"
+disableComments = false
 
 [params]
 author = "Sparisoma Viridi"
