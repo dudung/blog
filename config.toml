@@ -24,7 +24,8 @@ description = "Sparisoma Viridi's personal website"
 keywords = "blog,developer,personal"
 info = ["Physicist", "Programmer"]
 
-avatarURL = "images/avatar.jpg"
+avatarURL = "img/avatar.svg"
+
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
