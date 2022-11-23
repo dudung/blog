@@ -15,7 +15,7 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
-# disqusShortname = "yourdiscussshortname"
+disqusShortname = "6unpnp"
 
 [params]
 author = "Sparisoma Viridi"
@@ -308,4 +308,3 @@ url = "posts/"
 name = "Karya"
 weight = 5
 url = "works/"
-
