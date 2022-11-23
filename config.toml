@@ -15,8 +15,8 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
-disqusShortname = "6unpnp"
-disableComments = false
+disqusShortname = "dudung"
+#disableComments = false
 
 [params]
 author = "Sparisoma Viridi"
