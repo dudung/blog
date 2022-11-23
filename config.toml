@@ -220,7 +220,7 @@ type = "application/rss+xml"
 
 # en (default)
 [languages.en]
-languageName = ":uk:"
+languageName = "<span style='font-variant: small-caps;'>en</span>"
 
 [[languages.en.menu.main]]
 name = "About"
@@ -245,7 +245,7 @@ url = "works/"
 
 # de
 [languages.de]
-languageName = ":de:"
+languageName = "<span style='font-variant: small-caps;'>de</span>"
 title = "Blog"
 
 [languages.de.params]
@@ -280,7 +280,7 @@ url = "works/"
 # bug with :id:
 # substitue with <span style='font-variant: small-caps;'>id</span>
 # change back to get the country flag
-languageName = ":id:"
+languageName = "<span style='font-variant: small-caps;'>id</span>"
 title = "Blog"
 
 [languages.id.params]
