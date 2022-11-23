@@ -14,7 +14,7 @@ pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
-# Enable Disqus comments
+# Enable Disqus comments -- not your username but the site
 disqusShortname = "dudung-github-io-blog"
 
 [params]
