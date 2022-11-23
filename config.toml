@@ -279,7 +279,7 @@ url = "works/"
 [languages.id]
 # bug with :id:
 # substitue with <span style='font-variant: small-caps;'>id</span>
-# change back to get the flag
+# change back to get the country flag
 languageName = ":id:"
 title = "Blog"
 
@@ -297,7 +297,7 @@ url = "about/"
 [[languages.id.menu.main]]
 name = "Kutipan"
 weight = 2
-url = "posts/"
+url = "cites/"
 
 [[languages.id.menu.main]]
 name = "Tulisan"
