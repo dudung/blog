@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'blog'
 theme = 'hugo-coder'
 
+# since Hugo 0.52, new feature: Inline Shortcodes
+#enableInlineShortcodes = true -- not work
+
 # baseURL = "http://www.example.com"
 # title = "johndoe"
 # theme = "hugo-coder"
