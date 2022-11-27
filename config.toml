@@ -13,9 +13,9 @@ theme = 'hugo-coder'
 
 defaultContentLanguage = "en"
 paginate = 20
-pygmentsStyle = "bw"
+#pygmentsStyle = "bw"
 pygmentsCodeFences = true
-pygmentsCodeFencesGuessSyntax = true
+#pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments -- not your username but the site
 disqusShortname = "dudung-github-io-blog"
