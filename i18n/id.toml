@@ -15,7 +15,7 @@ one = "penulis"
 other = "penulis"
 
 [posts]
-other = "artikel"
+other = "Tulisan"
 
 [reading_time]
 one = "bacaan satu menit"
