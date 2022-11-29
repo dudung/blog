@@ -24,3 +24,5 @@ slug: "last"
 0002
 0001.id
 0000 0000.de 0000.id
+
+https://isbnsearch.org/isbn/9780470469118
