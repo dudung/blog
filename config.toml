@@ -18,7 +18,7 @@ pygmentsCodeFences = true
 #pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments -- not your username but the site
-disqusShortname = "dudung-github-io-blog"
+#disqusShortname = "dudung-github-io-blog"
 
 [params]
 author = "Sparisoma Viridi"
